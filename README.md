@@ -32,7 +32,7 @@ Run grc cat command
     >grc cat _full_tcp_nmap.txt
 
 Two quick improvements: 
-  - You may want to use less command or tmux session to scroll the file back and forth. 
+  - You may want to use less command (let me know if you find it) or tmux session to scroll the screen back and forth. 
   - You may want to customize /usr/local/share/grc/conf.nmap
 
 ### Screenshot
