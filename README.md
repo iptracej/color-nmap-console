@@ -31,11 +31,18 @@ Run grc cat command
     >grc cat init.nmap 
     >grc cat _full_tcp_nmap.txt
 
-You may want to customize /usr/local/share/grc/conf.nmap
+Two quick improvements: 
+    - You may want to use less command or tmux session to scroll the file back and forth. 
+    - You may want to customize /usr/local/share/grc/conf.nmap
 
 ### Screenshot
 
 ![default colored nmap output](screenshot.png)
+
+
+### Todo
+
+Map the output to hack the box, vulnhub, tryhackme, and any other vulnerable boxes to help quickly analyze juicy entry points 
 
 ### License
 
