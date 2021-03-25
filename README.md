@@ -33,6 +33,10 @@ Run grc cat command
 
 You may want to customize /usr/local/share/grc/conf.nmap
 
+### Screenshot
+
+![default colored nmap output](screenshot.png)
+
 ### License
 
 MIT  
